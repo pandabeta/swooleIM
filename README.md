@@ -1,7 +1,7 @@
 swooleIM
 ========
 
-基于websocket,php+swoole扩展的web聊天室
+基于websocket,php+swoole扩展的高性能web聊天室
 
 swoole扩展:http://www4swoole.sinaapp.com/
 
