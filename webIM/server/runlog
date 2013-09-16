@@ -1,0 +1,1511 @@
+2013-09-14 20:47:45 INFO Swoole. running. on 0.0.0.0:9501
+2013-09-14 20:48:16 INFO connected client_id = 9
+2013-09-14 20:48:16 INFO client_id=9|from_id=1
+2013-09-14 20:48:16 INFO websocket connected client_id = 9
+2013-09-14 20:48:16 INFO client_id=9|from_id=1
+2013-09-14 20:48:16 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-14 20:48:16 INFO client_id=9|from_id=1
+2013-09-14 20:48:16 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 20:48:30 INFO client_id=9|from_id=1
+2013-09-14 20:48:30 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"wwww"}
+2013-09-14 20:48:37 INFO client_id=9|from_id=1
+2013-09-14 20:48:37 INFO closeing client_id = 9
+2013-09-14 20:48:53 INFO connected client_id = 9
+2013-09-14 20:48:53 INFO client_id=9|from_id=1
+2013-09-14 20:48:53 INFO websocket connected client_id = 9
+2013-09-14 20:48:53 INFO client_id=9|from_id=1
+2013-09-14 20:48:53 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-14 20:48:53 INFO client_id=9|from_id=1
+2013-09-14 20:48:53 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 20:50:49 INFO client_id=9|from_id=1
+2013-09-14 20:50:49 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#4"}
+2013-09-14 20:50:57 INFO client_id=9|from_id=1
+2013-09-14 20:50:57 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"sdqweqweqwe"}
+2013-09-14 20:50:59 INFO client_id=9|from_id=1
+2013-09-14 20:50:59 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"qwerqwerwqer"}
+2013-09-14 20:51:03 INFO client_id=9|from_id=1
+2013-09-14 20:51:03 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#12"}
+2013-09-14 20:51:08 INFO client_id=9|from_id=1
+2013-09-14 20:51:08 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#10"}
+2013-09-14 20:51:09 INFO client_id=9|from_id=1
+2013-09-14 20:51:09 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"123123123"}
+2013-09-14 20:51:12 INFO client_id=9|from_id=1
+2013-09-14 20:51:12 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#9"}
+2013-09-14 20:57:05 INFO client_id=9|from_id=1
+2013-09-14 20:57:05 INFO closeing client_id = 9
+2013-09-14 20:57:07 INFO connected client_id = 9
+2013-09-14 20:57:07 INFO client_id=9|from_id=1
+2013-09-14 20:57:07 INFO websocket connected client_id = 9
+2013-09-14 20:57:07 INFO client_id=9|from_id=1
+2013-09-14 20:57:07 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-14 20:57:07 INFO client_id=9|from_id=1
+2013-09-14 20:57:07 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 20:57:09 INFO client_id=9|from_id=1
+2013-09-14 20:57:09 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"werwer"}
+2013-09-14 20:57:10 INFO client_id=9|from_id=1
+2013-09-14 20:57:10 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"wrqwrwer"}
+2013-09-14 20:58:40 INFO client_id=9|from_id=1
+2013-09-14 20:58:40 INFO closeing client_id = 9
+2013-09-14 20:58:40 INFO connected client_id = 9
+2013-09-14 20:58:40 INFO client_id=9|from_id=1
+2013-09-14 20:58:40 INFO websocket connected client_id = 9
+2013-09-14 20:58:40 INFO client_id=9|from_id=1
+2013-09-14 20:58:40 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-14 20:58:40 INFO client_id=9|from_id=1
+2013-09-14 20:58:40 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 20:59:35 INFO client_id=9|from_id=1
+2013-09-14 20:59:35 INFO closeing client_id = 9
+2013-09-14 20:59:35 INFO connected client_id = 9
+2013-09-14 20:59:35 INFO client_id=9|from_id=1
+2013-09-14 20:59:35 INFO websocket connected client_id = 9
+2013-09-14 20:59:35 INFO client_id=9|from_id=1
+2013-09-14 20:59:35 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-14 20:59:35 INFO client_id=9|from_id=1
+2013-09-14 20:59:35 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 21:02:03 INFO connected client_id = 10
+2013-09-14 21:02:03 INFO client_id=10|from_id=0
+2013-09-14 21:02:03 INFO websocket connected client_id = 10
+2013-09-14 21:02:03 INFO client_id=10|from_id=0
+2013-09-14 21:02:03 INFO onMessage: {"cmd":"login","name":"11","avatar":"11"}
+2013-09-14 21:02:03 INFO client_id=10|from_id=0
+2013-09-14 21:02:03 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 21:02:15 INFO client_id=10|from_id=0
+2013-09-14 21:02:15 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"大家好！"}
+2013-09-14 21:02:20 INFO client_id=10|from_id=0
+2013-09-14 21:02:20 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n昌兵在不？"}
+2013-09-14 21:02:22 INFO client_id=10|from_id=0
+2013-09-14 21:02:22 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n出来&nbsp;"}
+2013-09-14 21:02:27 INFO client_id=10|from_id=0
+2013-09-14 21:02:27 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n在不"}
+2013-09-14 21:02:33 INFO client_id=9|from_id=1
+2013-09-14 21:02:33 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#4"}
+2013-09-14 21:02:35 INFO client_id=10|from_id=0
+2013-09-14 21:02:35 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你真会搞"}
+2013-09-14 21:02:36 INFO client_id=9|from_id=1
+2013-09-14 21:02:36 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"在，"}
+2013-09-14 21:02:38 INFO client_id=9|from_id=1
+2013-09-14 21:02:38 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n你是"}
+2013-09-14 21:02:43 INFO client_id=10|from_id=0
+2013-09-14 21:02:43 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n单独说"}
+2013-09-14 21:02:46 INFO client_id=10|from_id=0
+2013-09-14 21:02:46 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n我李"}
+2013-09-14 21:02:49 INFO client_id=9|from_id=1
+2013-09-14 21:02:49 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n哈哈，"}
+2013-09-14 21:02:58 INFO client_id=9|from_id=1
+2013-09-14 21:02:58 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n#4"}
+2013-09-14 21:03:05 INFO client_id=10|from_id=0
+2013-09-14 21:03:05 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你现在的技术到什么程度了"}
+2013-09-14 21:03:14 INFO client_id=9|from_id=1
+2013-09-14 21:03:14 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"呵呵，这怎么说呢，"}
+2013-09-14 21:03:38 INFO client_id=10|from_id=0
+2013-09-14 21:03:38 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n感觉你很厉害"}
+2013-09-14 21:03:43 INFO client_id=9|from_id=1
+2013-09-14 21:03:43 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n现在就学学C++的网络通信的一些东西。"}
+2013-09-14 21:03:52 INFO client_id=10|from_id=0
+2013-09-14 21:03:52 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你还用C&nbsp;++"}
+2013-09-14 21:03:53 INFO client_id=10|from_id=0
+2013-09-14 21:03:53 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n?"}
+2013-09-14 21:04:02 INFO client_id=9|from_id=1
+2013-09-14 21:04:02 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"这个要求性能高，还是得C/C++来做。"}
+2013-09-14 21:04:30 INFO client_id=10|from_id=0
+2013-09-14 21:04:30 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n"}
+2013-09-14 21:04:50 INFO client_id=10|from_id=0
+2013-09-14 21:04:50 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"你都是自学？"}
+2013-09-14 21:04:55 INFO client_id=9|from_id=1
+2013-09-14 21:04:55 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"是呀，"}
+2013-09-14 21:05:05 INFO client_id=10|from_id=0
+2013-09-14 21:05:05 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n我以前也写写程序，现在都不想学了"}
+2013-09-14 21:05:13 INFO client_id=9|from_id=1
+2013-09-14 21:05:13 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"是有些不想学呀，"}
+2013-09-14 21:05:18 INFO client_id=10|from_id=0
+2013-09-14 21:05:18 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n总感觉&nbsp;精力不够，效果不好"}
+2013-09-14 21:05:25 INFO client_id=9|from_id=1
+2013-09-14 21:05:25 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"实在无聊了，看看。"}
+2013-09-14 21:05:34 INFO client_id=10|from_id=0
+2013-09-14 21:05:34 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你会JAVA吗？"}
+2013-09-14 21:05:35 INFO client_id=9|from_id=1
+2013-09-14 21:05:35 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n有些学不进去。"}
+2013-09-14 21:05:39 INFO client_id=9|from_id=1
+2013-09-14 21:05:39 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n不会。"}
+2013-09-14 21:05:43 INFO client_id=10|from_id=0
+2013-09-14 21:05:43 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦。"}
+2013-09-14 21:05:55 INFO client_id=10|from_id=0
+2013-09-14 21:05:55 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\nCSS，ｊａｖａｓｃｒｉｐｔ呢？"}
+2013-09-14 21:06:00 INFO client_id=9|from_id=1
+2013-09-14 21:06:00 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n这个会些。"}
+2013-09-14 21:06:12 INFO client_id=10|from_id=0
+2013-09-14 21:06:12 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n是界面的"}
+2013-09-14 21:06:16 INFO client_id=9|from_id=1
+2013-09-14 21:06:16 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n写网页，少不了这些，嗯。"}
+2013-09-14 21:06:20 INFO client_id=9|from_id=1
+2013-09-14 21:06:20 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n就是做的不美观，"}
+2013-09-14 21:06:25 INFO client_id=10|from_id=0
+2013-09-14 21:06:25 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"你主攻什么？"}
+2013-09-14 21:06:29 INFO client_id=9|from_id=1
+2013-09-14 21:06:29 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"像这个界面，"}
+2013-09-14 21:06:31 INFO client_id=9|from_id=1
+2013-09-14 21:06:31 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\nPHP"}
+2013-09-14 21:06:58 INFO client_id=10|from_id=0
+2013-09-14 21:06:58 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"Professional&nbsp;Hypertext Preprocessor、"}
+2013-09-14 21:07:04 INFO client_id=9|from_id=1
+2013-09-14 21:07:04 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"呵呵，是呀，"}
+2013-09-14 21:07:17 INFO client_id=9|from_id=1
+2013-09-14 21:07:17 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"像这个，前端用html5&nbsp;+ javascript"}
+2013-09-14 21:07:26 INFO client_id=9|from_id=1
+2013-09-14 21:07:26 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n后端是php&nbsp;+ c扩展。"}
+2013-09-14 21:07:42 INFO client_id=10|from_id=0
+2013-09-14 21:07:42 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"html5厉害"}
+2013-09-14 21:07:43 INFO client_id=9|from_id=1
+2013-09-14 21:07:43 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n可以支持很多人同时在线的。"}
+2013-09-14 21:07:51 INFO client_id=9|from_id=1
+2013-09-14 21:07:51 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n如果光&nbsp;php支持不了多少人"}
+2013-09-14 21:07:51 INFO client_id=10|from_id=0
+2013-09-14 21:07:51 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"我知道一点，但不会写"}
+2013-09-14 21:08:09 INFO client_id=10|from_id=0
+2013-09-14 21:08:09 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n我都不想继续写程序了"}
+2013-09-14 21:08:11 INFO client_id=9|from_id=1
+2013-09-14 21:08:11 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n呵呆，"}
+2013-09-14 21:08:24 INFO client_id=10|from_id=0
+2013-09-14 21:08:24 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"感觉大学那会学得东西，都没什么用"}
+2013-09-14 21:08:25 INFO client_id=9|from_id=1
+2013-09-14 21:08:25 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"可以做产品呀，"}
+2013-09-14 21:08:29 INFO client_id=10|from_id=0
+2013-09-14 21:08:29 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\npython会不？"}
+2013-09-14 21:08:30 INFO client_id=9|from_id=1
+2013-09-14 21:08:30 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n不做技术也可以。"}
+2013-09-14 21:08:33 INFO client_id=9|from_id=1
+2013-09-14 21:08:33 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n不会，"}
+2013-09-14 21:08:38 INFO client_id=10|from_id=0
+2013-09-14 21:08:38 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\nshell"}
+2013-09-14 21:08:39 INFO client_id=9|from_id=1
+2013-09-14 21:08:39 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n看过点。"}
+2013-09-14 21:08:51 INFO client_id=9|from_id=1
+2013-09-14 21:08:51 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n做的东西和php差不我，同一类型的，"}
+2013-09-14 21:08:56 INFO client_id=9|from_id=1
+2013-09-14 21:08:56 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\nshell会些。"}
+2013-09-14 21:09:02 INFO client_id=10|from_id=0
+2013-09-14 21:09:02 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n我觉得会点基础，不行"}
+2013-09-14 21:09:13 INFO client_id=10|from_id=0
+2013-09-14 21:09:13 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n必须对语言基础，比如面向对象"}
+2013-09-14 21:09:19 INFO client_id=10|from_id=0
+2013-09-14 21:09:19 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n语言理解"}
+2013-09-14 21:09:24 INFO client_id=9|from_id=1
+2013-09-14 21:09:24 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n是呀。"}
+2013-09-14 21:09:55 INFO client_id=9|from_id=1
+2013-09-14 21:09:55 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"学门网络开发的，再学个C/C++就够了"}
+2013-09-14 21:09:56 INFO client_id=10|from_id=0
+2013-09-14 21:09:56 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n所以，你通常买书，还是在网上看资料？"}
+2013-09-14 21:10:05 INFO client_id=9|from_id=1
+2013-09-14 21:10:05 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n在网上看资料，"}
+2013-09-14 21:10:10 INFO client_id=9|from_id=1
+2013-09-14 21:10:10 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n书看不进去。"}
+2013-09-14 21:10:11 INFO client_id=10|from_id=0
+2013-09-14 21:10:11 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦，有什么好网站"}
+2013-09-14 21:10:29 INFO client_id=9|from_id=1
+2013-09-14 21:10:29 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n都是百度搜了，"}
+2013-09-14 21:10:36 INFO client_id=9|from_id=1
+2013-09-14 21:10:36 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n然后博客园，挺好的，"}
+2013-09-14 21:10:44 INFO client_id=9|from_id=1
+2013-09-14 21:10:44 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n有挺多人发贴。"}
+2013-09-14 21:10:57 INFO client_id=10|from_id=0
+2013-09-14 21:10:57 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n那怎么能行"}
+2013-09-14 21:11:05 INFO client_id=10|from_id=0
+2013-09-14 21:11:05 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n那些不系统，都是些提问，"}
+2013-09-14 21:11:09 INFO client_id=9|from_id=1
+2013-09-14 21:11:09 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n系统的学，就看pdf了，"}
+2013-09-14 21:11:29 INFO client_id=10|from_id=0
+2013-09-14 21:11:29 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"嗯\n"}
+2013-09-14 21:11:39 INFO client_id=10|from_id=0
+2013-09-14 21:11:39 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你后来和那女孩联系了吗？"}
+2013-09-14 21:11:45 INFO client_id=9|from_id=1
+2013-09-14 21:11:45 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"么有。"}
+2013-09-14 21:11:59 INFO client_id=9|from_id=1
+2013-09-14 21:11:59 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n一直不在线呵呵。"}
+2013-09-14 21:12:15 INFO client_id=10|from_id=0
+2013-09-14 21:12:15 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦"}
+2013-09-14 21:12:20 INFO client_id=10|from_id=0
+2013-09-14 21:12:20 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n那估计很少上网"}
+2013-09-14 21:12:25 INFO client_id=10|from_id=0
+2013-09-14 21:12:25 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n中秋放假吧？"}
+2013-09-14 21:12:27 INFO client_id=9|from_id=1
+2013-09-14 21:12:27 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n隐身吧，估计"}
+2013-09-14 21:12:29 INFO client_id=9|from_id=1
+2013-09-14 21:12:29 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n放呀"}
+2013-09-14 21:12:38 INFO client_id=10|from_id=0
+2013-09-14 21:12:38 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"哦，我没有她QQ　"}
+2013-09-14 21:12:48 INFO client_id=10|from_id=0
+2013-09-14 21:12:48 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n数据库你用吗？"}
+2013-09-14 21:12:52 INFO client_id=9|from_id=1
+2013-09-14 21:12:52 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n用的。"}
+2013-09-14 21:13:04 INFO client_id=9|from_id=1
+2013-09-14 21:13:04 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"mysql"}
+2013-09-14 21:13:04 INFO client_id=10|from_id=0
+2013-09-14 21:13:04 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"还是走对路了。"}
+2013-09-14 21:13:09 INFO client_id=10|from_id=0
+2013-09-14 21:13:09 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你"}
+2013-09-14 21:13:14 INFO client_id=9|from_id=1
+2013-09-14 21:13:14 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n哎，一般"}
+2013-09-14 21:13:23 INFO client_id=10|from_id=0
+2013-09-14 21:13:23 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n以前在学校的时候，你看那些书，我现在才知道是干什么的"}
+2013-09-14 21:13:26 INFO client_id=9|from_id=1
+2013-09-14 21:13:26 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\nC++有些难搞呀，"}
+2013-09-14 21:13:31 INFO client_id=10|from_id=0
+2013-09-14 21:13:31 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n#4"}
+2013-09-14 21:13:31 INFO client_id=9|from_id=1
+2013-09-14 21:13:31 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"呵呵。"}
+2013-09-14 21:13:46 INFO client_id=10|from_id=0
+2013-09-14 21:13:46 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\nC＋＋有类，对象，继承，"}
+2013-09-14 21:13:49 INFO client_id=9|from_id=1
+2013-09-14 21:13:49 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n是的。"}
+2013-09-14 21:13:56 INFO client_id=10|from_id=0
+2013-09-14 21:13:56 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n多态"}
+2013-09-14 21:14:02 INFO client_id=10|from_id=0
+2013-09-14 21:14:02 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n封闭"}
+2013-09-14 21:14:05 INFO client_id=10|from_id=0
+2013-09-14 21:14:05 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n封装"}
+2013-09-14 21:14:18 INFO client_id=9|from_id=1
+2013-09-14 21:14:18 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"嗯，"}
+2013-09-14 21:14:29 INFO client_id=9|from_id=1
+2013-09-14 21:14:29 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n关键是多线程下，麻烦，"}
+2013-09-14 21:14:36 INFO client_id=10|from_id=0
+2013-09-14 21:14:36 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n是的，锁"}
+2013-09-14 21:14:40 INFO client_id=10|from_id=0
+2013-09-14 21:14:40 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n原子操作"}
+2013-09-14 21:14:43 INFO client_id=9|from_id=1
+2013-09-14 21:14:43 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"是呀。"}
+2013-09-14 21:14:57 INFO client_id=9|from_id=1
+2013-09-14 21:14:57 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n复杂了，难以控制。"}
+2013-09-14 21:15:04 INFO client_id=10|from_id=0
+2013-09-14 21:15:04 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"我不太懂私有，公用，保护那些"}
+2013-09-14 21:15:42 INFO client_id=9|from_id=1
+2013-09-14 21:15:42 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n公用就是外部类可以访问这个方法，私有只有类本身的方法里才能调用了，"}
+2013-09-14 21:16:07 INFO client_id=9|from_id=1
+2013-09-14 21:16:07 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n保护，子类，父类也可以调。"}
+2013-09-14 21:16:36 INFO client_id=10|from_id=0
+2013-09-14 21:16:36 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n大概意思，我明白"}
+2013-09-14 21:16:40 INFO client_id=10|from_id=0
+2013-09-14 21:16:40 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n要灵活运用才行"}
+2013-09-14 21:16:48 INFO client_id=10|from_id=0
+2013-09-14 21:16:48 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\nMFC　"}
+2013-09-14 21:16:54 INFO client_id=9|from_id=1
+2013-09-14 21:16:54 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"面向对象设计原则。"}
+2013-09-14 21:17:00 INFO client_id=10|from_id=0
+2013-09-14 21:17:00 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n界面，类库"}
+2013-09-14 21:17:01 INFO client_id=9|from_id=1
+2013-09-14 21:17:01 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n开放封闭原则。"}
+2013-09-14 21:17:06 INFO client_id=9|from_id=1
+2013-09-14 21:17:06 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\nMFC不会，"}
+2013-09-14 21:17:17 INFO client_id=9|from_id=1
+2013-09-14 21:17:17 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n我只会&nbsp;linux下"}
+2013-09-14 21:17:42 INFO client_id=10|from_id=0
+2013-09-14 21:17:42 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\nLINUX下可以MFC？"}
+2013-09-14 21:17:53 INFO client_id=9|from_id=1
+2013-09-14 21:17:53 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n不能，"}
+2013-09-14 21:18:12 INFO client_id=9|from_id=1
+2013-09-14 21:18:12 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"linux&nbsp;C++主要做服务器，"}
+2013-09-14 21:18:17 INFO client_id=10|from_id=0
+2013-09-14 21:18:17 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦，是微软类库"}
+2013-09-14 21:18:20 INFO client_id=9|from_id=1
+2013-09-14 21:18:20 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n所以客户端的东西，不怎么看。"}
+2013-09-14 21:20:03 INFO client_id=10|from_id=0
+2013-09-14 21:20:03 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦"}
+2013-09-14 21:20:14 INFO client_id=9|from_id=1
+2013-09-14 21:20:14 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"#15\n"}
+2013-09-14 21:20:16 INFO client_id=10|from_id=0
+2013-09-14 21:20:16 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n挺好的"}
+2013-09-14 21:20:37 INFO client_id=9|from_id=1
+2013-09-14 21:20:37 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"你用的什么浏览器"}
+2013-09-14 21:20:44 INFO client_id=10|from_id=0
+2013-09-14 21:20:44 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n我用chrome"}
+2013-09-14 21:20:50 INFO client_id=9|from_id=1
+2013-09-14 21:20:50 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n哦。"}
+2013-09-14 21:20:55 INFO client_id=10|from_id=0
+2013-09-14 21:20:55 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你这些聊天记录，会存在什么地方"}
+2013-09-14 21:21:05 INFO client_id=9|from_id=1
+2013-09-14 21:21:05 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"现在没存。"}
+2013-09-14 21:21:07 INFO client_id=10|from_id=0
+2013-09-14 21:21:07 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你的地址是花钱买的吧？"}
+2013-09-14 21:21:12 INFO client_id=9|from_id=1
+2013-09-14 21:21:12 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"公司的服务器。"}
+2013-09-14 21:21:28 INFO client_id=9|from_id=1
+2013-09-14 21:21:28 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"没弄域名，用ip访问的。"}
+2013-09-14 21:21:29 INFO client_id=10|from_id=0
+2013-09-14 21:21:29 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦，那我怎么会访问呢"}
+2013-09-14 21:21:38 INFO client_id=10|from_id=0
+2013-09-14 21:21:38 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n不懂"}
+2013-09-14 21:21:57 INFO client_id=9|from_id=1
+2013-09-14 21:21:57 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"http://211.144.68.31/app/webIM/login.html"}
+2013-09-14 21:22:12 INFO client_id=10|from_id=0
+2013-09-14 21:22:12 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n那也是公司搞的"}
+2013-09-14 21:22:16 INFO client_id=9|from_id=1
+2013-09-14 21:22:16 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"发到朋友网，自动给转成短url了。"}
+2013-09-14 21:22:49 INFO client_id=9|from_id=1
+2013-09-14 21:22:49 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"做服务器端开发的，所以公司必须得给我服务器呀"}
+2013-09-14 21:22:57 INFO client_id=9|from_id=1
+2013-09-14 21:22:57 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n有4台呵呵。"}
+2013-09-14 21:23:15 INFO client_id=10|from_id=0
+2013-09-14 21:23:15 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦，我临时有事，稍后聊"}
+2013-09-14 21:23:18 INFO client_id=9|from_id=1
+2013-09-14 21:23:18 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"好的。"}
+2013-09-14 21:35:49 INFO client_id=10|from_id=0
+2013-09-14 21:35:49 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n回来了"}
+2013-09-14 21:35:53 INFO client_id=9|from_id=1
+2013-09-14 21:35:53 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"呵呵，"}
+2013-09-14 21:36:44 INFO client_id=10|from_id=0
+2013-09-14 21:36:44 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"那你好好搞"}
+2013-09-14 21:36:50 INFO client_id=9|from_id=1
+2013-09-14 21:36:50 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"呵呵，周末在干嘛呀"}
+2013-09-14 21:36:54 INFO client_id=9|from_id=1
+2013-09-14 21:36:54 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n你们公司加班不。"}
+2013-09-14 21:37:59 INFO client_id=10|from_id=0
+2013-09-14 21:37:59 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"加班"}
+2013-09-14 21:38:11 INFO client_id=9|from_id=1
+2013-09-14 21:38:11 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"哦。"}
+2013-09-14 21:38:25 INFO client_id=10|from_id=0
+2013-09-14 21:38:25 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n我们公司肯定要加班呀"}
+2013-09-14 21:38:34 INFO client_id=10|from_id=0
+2013-09-14 21:38:34 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你打算以后回去不？"}
+2013-09-14 21:38:44 INFO client_id=9|from_id=1
+2013-09-14 21:38:44 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"以后应该要回吧，"}
+2013-09-14 21:38:52 INFO client_id=9|from_id=1
+2013-09-14 21:38:52 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n还没过多想。"}
+2013-09-14 21:38:52 INFO client_id=10|from_id=0
+2013-09-14 21:38:52 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n打算在哪里买房子？"}
+2013-09-14 21:39:01 INFO client_id=10|from_id=0
+2013-09-14 21:39:01 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你日常工作中，英语用得多不？"}
+2013-09-14 21:39:14 INFO client_id=9|from_id=1
+2013-09-14 21:39:14 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"不用英语。"}
+2013-09-14 21:39:19 INFO client_id=9|from_id=1
+2013-09-14 21:39:19 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n除了代码。。"}
+2013-09-14 21:39:27 INFO client_id=10|from_id=0
+2013-09-14 21:39:27 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"写程序也要用到英语哦"}
+2013-09-14 21:39:32 INFO client_id=9|from_id=1
+2013-09-14 21:39:32 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n呵呵。"}
+2013-09-14 21:39:38 INFO client_id=9|from_id=1
+2013-09-14 21:39:38 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n不用英语交流。"}
+2013-09-14 21:39:42 INFO client_id=10|from_id=0
+2013-09-14 21:39:42 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"英语差，不得了"}
+2013-09-14 21:39:46 INFO client_id=10|from_id=0
+2013-09-14 21:39:46 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你还好"}
+2013-09-14 21:39:53 INFO client_id=9|from_id=1
+2013-09-14 21:39:53 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"我也差。"}
+2013-09-14 21:40:07 INFO client_id=9|from_id=1
+2013-09-14 21:40:07 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n代码，无&nbsp;所谓了。"}
+2013-09-14 21:40:08 INFO client_id=10|from_id=0
+2013-09-14 21:40:08 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你比我好很多"}
+2013-09-14 21:40:12 INFO client_id=9|from_id=1
+2013-09-14 21:40:12 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"没有。"}
+2013-09-14 21:40:37 INFO client_id=10|from_id=0
+2013-09-14 21:40:37 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"魏欣，你、党进、明瑞军英语都好"}
+2013-09-14 21:40:43 INFO client_id=9|from_id=1
+2013-09-14 21:40:43 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"我很差，"}
+2013-09-14 21:40:45 INFO client_id=9|from_id=1
+2013-09-14 21:40:45 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n呵呵。"}
+2013-09-14 21:40:47 INFO client_id=10|from_id=0
+2013-09-14 21:40:47 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n呵呵"}
+2013-09-14 21:43:24 INFO client_id=10|from_id=0
+2013-09-14 21:43:24 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n你加油呀"}
+2013-09-14 21:43:27 INFO client_id=10|from_id=0
+2013-09-14 21:43:27 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n程序工资高"}
+2013-09-14 21:43:34 INFO client_id=9|from_id=1
+2013-09-14 21:43:34 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"哎，也一般般。"}
+2013-09-14 21:44:00 INFO client_id=10|from_id=0
+2013-09-14 21:44:00 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n我们公司程序员，基本上万了"}
+2013-09-14 21:44:07 INFO client_id=9|from_id=1
+2013-09-14 21:44:07 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"\n是哦&nbsp;。"}
+2013-09-14 21:44:15 INFO client_id=10|from_id=0
+2013-09-14 21:44:15 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n三年都一万以上了"}
+2013-09-14 21:44:22 INFO client_id=9|from_id=1
+2013-09-14 21:44:22 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"是呀。"}
+2013-09-14 21:45:27 INFO connected client_id = 11
+2013-09-14 21:45:27 INFO client_id=11|from_id=1
+2013-09-14 21:45:27 INFO websocket connected client_id = 11
+2013-09-14 21:45:27 INFO client_id=11|from_id=1
+2013-09-14 21:45:27 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 21:45:27 INFO client_id=11|from_id=1
+2013-09-14 21:45:27 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 21:45:34 INFO client_id=9|from_id=1
+2013-09-14 21:45:34 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n#14"}
+2013-09-14 21:45:53 INFO client_id=10|from_id=0
+2013-09-14 21:45:53 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n谁来了？"}
+2013-09-14 21:46:00 INFO client_id=9|from_id=1
+2013-09-14 21:46:00 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"小明的兄弟。。"}
+2013-09-14 21:46:04 INFO client_id=11|from_id=1
+2013-09-14 21:46:04 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"#2"}
+2013-09-14 21:46:09 INFO client_id=10|from_id=0
+2013-09-14 21:46:09 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦"}
+2013-09-14 21:46:14 INFO client_id=10|from_id=0
+2013-09-14 21:46:14 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n我不认识"}
+2013-09-14 21:46:49 INFO client_id=9|from_id=1
+2013-09-14 21:46:49 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"也在上海，来了才认的"}
+2013-09-14 21:46:50 INFO client_id=11|from_id=1
+2013-09-14 21:46:50 INFO onMessage: {"cmd":"message","from":11,"to":"9","channal":1,"data":"sdf\n"}
+2013-09-14 21:46:57 INFO client_id=9|from_id=1
+2013-09-14 21:46:57 INFO onMessage: {"cmd":"message","from":9,"to":"11","channal":1,"data":"\n呵呵。"}
+2013-09-14 21:47:17 INFO client_id=10|from_id=0
+2013-09-14 21:47:17 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n哦，那你和他聊，我去洗洗了"}
+2013-09-14 21:47:27 INFO client_id=9|from_id=1
+2013-09-14 21:47:27 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"好。的\n"}
+2013-09-14 21:47:33 INFO client_id=11|from_id=1
+2013-09-14 21:47:33 INFO onMessage: {"cmd":"message","from":11,"to":"9","channal":1,"data":"\nphp还是java写的？"}
+2013-09-14 21:47:37 INFO client_id=9|from_id=1
+2013-09-14 21:47:37 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\nphp"}
+2013-09-14 21:47:57 INFO client_id=11|from_id=1
+2013-09-14 21:47:57 INFO onMessage: {"cmd":"message","from":11,"to":"10","channal":1,"data":"\n"}
+2013-09-14 21:47:57 INFO client_id=10|from_id=0
+2013-09-14 21:47:57 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"昌兵，我下线了"}
+2013-09-14 21:48:00 INFO client_id=10|from_id=0
+2013-09-14 21:48:00 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"\n有空再聊"}
+2013-09-14 21:48:01 INFO client_id=9|from_id=1
+2013-09-14 21:48:01 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n好的，"}
+2013-09-14 21:48:03 INFO client_id=9|from_id=1
+2013-09-14 21:48:03 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n88"}
+2013-09-14 21:48:04 INFO closeing client_id = 10
+2013-09-14 21:48:13 INFO client_id=9|from_id=1
+2013-09-14 21:48:13 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n呵呵，"}
+2013-09-14 21:48:28 INFO client_id=9|from_id=1
+2013-09-14 21:48:28 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"到时再加点功能。"}
+2013-09-14 21:48:32 INFO client_id=9|from_id=1
+2013-09-14 21:48:32 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n发图片。"}
+2013-09-14 21:49:02 INFO client_id=11|from_id=1
+2013-09-14 21:49:02 INFO onMessage: {"cmd":"message","from":11,"to":"9","channal":1,"data":"这是卖钱还是学习学习？"}
+2013-09-14 21:49:07 INFO client_id=9|from_id=1
+2013-09-14 21:49:07 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"学习了"}
+2013-09-14 21:49:18 INFO client_id=9|from_id=1
+2013-09-14 21:49:18 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"下周把代码，开源出去。"}
+2013-09-14 21:49:33 INFO client_id=9|from_id=1
+2013-09-14 21:49:33 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"和别人一起维护。"}
+2013-09-14 21:50:36 INFO client_id=11|from_id=1
+2013-09-14 21:50:36 INFO onMessage: {"cmd":"message","from":11,"to":"9","channal":1,"data":"\n目的是？"}
+2013-09-14 21:51:00 INFO client_id=9|from_id=1
+2013-09-14 21:51:00 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"这个socket服务器，是用C写的，作为php扩展用的。"}
+2013-09-14 21:51:11 INFO client_id=9|from_id=1
+2013-09-14 21:51:11 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n所以也是测试服务器的稳定性。"}
+2013-09-14 21:51:20 INFO client_id=9|from_id=1
+2013-09-14 21:51:20 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"有问题可以一起解决。。"}
+2013-09-14 21:51:57 INFO client_id=9|from_id=1
+2013-09-14 21:51:57 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"有阿里巴巴的个NB的人支持。。"}
+2013-09-14 21:53:29 INFO client_id=9|from_id=1
+2013-09-14 21:53:29 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"这个服务器来说&nbsp;比php原生socket性能要高的多，"}
+2013-09-14 21:54:34 INFO client_id=11|from_id=1
+2013-09-14 21:54:34 INFO onMessage: {"cmd":"message","from":11,"to":"9","channal":1,"data":"\n跳槽到你们公司的？"}
+2013-09-14 21:54:51 INFO client_id=9|from_id=1
+2013-09-14 21:54:51 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"没有。"}
+2013-09-14 21:54:59 INFO client_id=9|from_id=1
+2013-09-14 21:54:59 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n网上的认识的"}
+2013-09-14 21:55:27 INFO client_id=11|from_id=1
+2013-09-14 21:55:27 INFO onMessage: {"cmd":"message","from":11,"to":"9","channal":1,"data":"\n要怎么测试稳定性？"}
+2013-09-14 21:55:51 INFO client_id=9|from_id=1
+2013-09-14 21:55:51 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"服务器就一直运行在那，看时间长了，会不会挂掉呀什么的。"}
+2013-09-14 21:56:09 INFO client_id=9|from_id=1
+2013-09-14 21:56:09 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n看看聊天中有没有bug什么的。"}
+2013-09-14 21:56:29 INFO client_id=9|from_id=1
+2013-09-14 21:56:29 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n我发现，这个窗口一直开着，时间长了，就发不通了。"}
+2013-09-14 21:57:20 INFO client_id=11|from_id=1
+2013-09-14 21:57:20 INFO onMessage: {"cmd":"message","from":11,"to":"9","channal":1,"data":"\n和ＱＱ原理一样吗？"}
+2013-09-14 21:57:26 INFO client_id=9|from_id=1
+2013-09-14 21:57:26 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n差不多吧。"}
+2013-09-14 21:59:02 INFO client_id=11|from_id=1
+2013-09-14 21:59:02 INFO onMessage: {"cmd":"message","from":11,"to":"9","channal":1,"data":"\n有什么地方要用到吗？"}
+2013-09-14 21:59:21 INFO client_id=9|from_id=1
+2013-09-14 21:59:21 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"这个是是常用的哦。"}
+2013-09-14 21:59:29 INFO client_id=9|from_id=1
+2013-09-14 21:59:29 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n在游戏里面要要实时的通信"}
+2013-09-14 21:59:41 INFO client_id=9|from_id=1
+2013-09-14 21:59:41 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n玩家移动，别的玩家要看到。"}
+2013-09-14 21:59:45 INFO client_id=9|from_id=1
+2013-09-14 21:59:45 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n原理都一样。"}
+2013-09-14 22:00:45 INFO client_id=9|from_id=1
+2013-09-14 22:00:45 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"websocket网兴起，浏览器支持的还不够，像IE10以下的都不支持，但这无疑是个趋势。"}
+2013-09-14 22:01:00 INFO client_id=9|from_id=1
+2013-09-14 22:01:00 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n以后网站的互动性会更强"}
+2013-09-14 22:01:34 INFO client_id=9|from_id=1
+2013-09-14 22:01:34 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"以前大多网上聊天的，是用ajax轮询实现的，&nbsp;"}
+2013-09-14 22:01:42 INFO client_id=9|from_id=1
+2013-09-14 22:01:42 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n以后就不用了，真正的socket&nbsp;"}
+2013-09-14 22:02:02 INFO client_id=9|from_id=1
+2013-09-14 22:02:02 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"轮询效率太低了，"}
+2013-09-14 22:02:07 INFO client_id=9|from_id=1
+2013-09-14 22:02:07 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n实时性不高。"}
+2013-09-14 22:02:58 INFO client_id=11|from_id=1
+2013-09-14 22:02:58 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"\n从后台往前台推送？"}
+2013-09-14 22:03:02 INFO client_id=9|from_id=1
+2013-09-14 22:03:02 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n是的。"}
+2013-09-14 22:03:32 INFO client_id=9|from_id=1
+2013-09-14 22:03:32 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n以前都是前台去请求后台。"}
+2013-09-14 22:03:44 INFO client_id=11|from_id=1
+2013-09-14 22:03:44 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"\n我们公司前段也讨论了下，不过什么什么原因就搁置了"}
+2013-09-14 22:04:00 INFO client_id=9|from_id=1
+2013-09-14 22:04:00 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"大多都是因为兼容性问题。"}
+2013-09-14 22:04:34 INFO client_id=9|from_id=1
+2013-09-14 22:04:34 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"不过前端可以用as做。"}
+2013-09-14 22:04:36 INFO client_id=11|from_id=1
+2013-09-14 22:04:36 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"\nsdf"}
+2013-09-14 22:04:47 INFO client_id=11|from_id=1
+2013-09-14 22:04:47 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"\n"}
+2013-09-14 22:05:21 INFO client_id=9|from_id=1
+2013-09-14 22:05:21 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n#16"}
+2013-09-14 22:05:26 INFO client_id=9|from_id=1
+2013-09-14 22:05:26 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#7#5#5"}
+2013-09-14 22:05:30 INFO client_id=11|from_id=1
+2013-09-14 22:05:30 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"使用最前沿技术websocket+php_swoole扩展开发使用最前沿技术websocket+php_swoole扩展开发使用最前沿技术websocket+php_swoole扩展开发使用最前沿技术websocket+php_swoole扩展开发"}
+2013-09-14 22:05:42 INFO client_id=9|from_id=1
+2013-09-14 22:05:42 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"哈哈。#6"}
+2013-09-14 22:06:22 INFO client_id=11|from_id=1
+2013-09-14 22:06:22 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"\n分分钟都感觉ＡＳ很悲剧"}
+2013-09-14 22:06:31 INFO client_id=9|from_id=1
+2013-09-14 22:06:31 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"怎么了。"}
+2013-09-14 22:07:05 INFO client_id=9|from_id=1
+2013-09-14 22:07:05 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n前天，一群腾讯的技术跑进来参观，"}
+2013-09-14 22:07:17 INFO client_id=9|from_id=1
+2013-09-14 22:07:17 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"左边头像栏都显满了。"}
+2013-09-14 22:07:30 INFO client_id=11|from_id=1
+2013-09-14 22:07:30 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"\n不是adobe捐出去了吗"}
+2013-09-14 22:07:37 INFO client_id=9|from_id=1
+2013-09-14 22:07:37 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"啊，我还不知道。"}
+2013-09-14 22:07:52 INFO client_id=11|from_id=1
+2013-09-14 22:07:52 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"\n腾讯不是很牛的吗"}
+2013-09-14 22:07:57 INFO client_id=9|from_id=1
+2013-09-14 22:07:57 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"阿里的那个人，原来是腾讯的"}
+2013-09-14 22:08:12 INFO client_id=9|from_id=1
+2013-09-14 22:08:12 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n他在腾讯的群里叫了下，都跑来了，"}
+2013-09-14 22:10:09 INFO client_id=11|from_id=1
+2013-09-14 22:10:09 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"搞了多久了，这个东西？\n"}
+2013-09-14 22:10:17 INFO client_id=11|from_id=1
+2013-09-14 22:10:17 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"\n"}
+2013-09-14 22:10:21 INFO client_id=9|from_id=1
+2013-09-14 22:10:21 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"弄了两天。"}
+2013-09-14 22:10:23 INFO client_id=9|from_id=1
+2013-09-14 22:10:23 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n呵呵。"}
+2013-09-14 22:10:29 INFO client_id=9|from_id=1
+2013-09-14 22:10:29 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n做界面好烦，"}
+2013-09-14 22:10:37 INFO client_id=9|from_id=1
+2013-09-14 22:10:37 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n程序都还好。"}
+2013-09-14 22:12:48 INFO client_id=9|from_id=1
+2013-09-14 22:12:48 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n#6"}
+2013-09-14 22:12:57 INFO client_id=9|from_id=1
+2013-09-14 22:12:57 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"你试下发表情。"}
+2013-09-14 22:13:08 INFO client_id=11|from_id=1
+2013-09-14 22:13:08 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"#1"}
+2013-09-14 22:13:15 INFO client_id=9|from_id=1
+2013-09-14 22:13:15 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n"}
+2013-09-14 22:13:47 INFO client_id=9|from_id=1
+2013-09-14 22:13:47 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"昨天发现png格式的图片，在有的浏览器里不动。"}
+2013-09-14 22:13:54 INFO client_id=9|from_id=1
+2013-09-14 22:13:54 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n换成gif&nbsp;。"}
+2013-09-14 22:23:09 INFO connected client_id = 10
+2013-09-14 22:23:09 INFO client_id=10|from_id=0
+2013-09-14 22:23:09 INFO websocket connected client_id = 10
+2013-09-14 22:23:09 INFO client_id=10|from_id=0
+2013-09-14 22:23:09 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:23:09 INFO client_id=10|from_id=0
+2013-09-14 22:23:09 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:23:15 INFO connected client_id = 12
+2013-09-14 22:23:15 INFO client_id=12|from_id=0
+2013-09-14 22:23:15 INFO websocket connected client_id = 12
+2013-09-14 22:23:16 INFO client_id=12|from_id=0
+2013-09-14 22:23:16 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:23:16 INFO client_id=12|from_id=0
+2013-09-14 22:23:16 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:23:18 INFO closeing client_id = 12
+2013-09-14 22:23:21 INFO closeing client_id = 11
+2013-09-14 22:23:30 INFO connected client_id = 11
+2013-09-14 22:23:30 INFO client_id=11|from_id=1
+2013-09-14 22:23:30 INFO websocket connected client_id = 11
+2013-09-14 22:23:33 INFO client_id=11|from_id=1
+2013-09-14 22:23:33 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:23:33 INFO client_id=11|from_id=1
+2013-09-14 22:23:33 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:23:38 INFO connected client_id = 12
+2013-09-14 22:23:38 INFO client_id=12|from_id=0
+2013-09-14 22:23:38 INFO websocket connected client_id = 12
+2013-09-14 22:23:41 INFO client_id=12|from_id=0
+2013-09-14 22:23:41 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:23:47 INFO client_id=12|from_id=0
+2013-09-14 22:23:47 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:23:51 INFO client_id=12|from_id=0
+2013-09-14 22:23:51 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"sdf"}
+2013-09-14 22:24:31 INFO client_id=9|from_id=1
+2013-09-14 22:24:31 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"出问题了，还是你开了三个。"}
+2013-09-14 22:24:33 INFO client_id=11|from_id=1
+2013-09-14 22:24:33 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"sfd"}
+2013-09-14 22:25:09 INFO connected client_id = 13
+2013-09-14 22:25:10 INFO client_id=13|from_id=1
+2013-09-14 22:25:10 INFO websocket connected client_id = 13
+2013-09-14 22:25:10 INFO client_id=13|from_id=1
+2013-09-14 22:25:10 INFO onMessage: {"cmd":"login","name":"aaaa","avatar":"http://a.hiphotos.baidu.com/ting/pic/item/0824ab18972bd40704ec49617a899e510fb30906.jpg"}
+2013-09-14 22:25:10 INFO client_id=13|from_id=1
+2013-09-14 22:25:10 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:25:20 INFO client_id=13|from_id=1
+2013-09-14 22:25:20 INFO onMessage: {"cmd":"message","from":13,"channal":0,"data":"ddddd"}
+2013-09-14 22:25:26 INFO client_id=12|from_id=0
+2013-09-14 22:25:26 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"我也不知道，开了三个吧"}
+2013-09-14 22:25:32 INFO client_id=9|from_id=1
+2013-09-14 22:25:32 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n哦。"}
+2013-09-14 22:25:37 INFO client_id=13|from_id=1
+2013-09-14 22:25:37 INFO onMessage: {"cmd":"message","from":13,"channal":0,"data":"什么情况？"}
+2013-09-14 22:25:50 INFO closeing client_id = 11
+2013-09-14 22:25:51 INFO closeing client_id = 12
+2013-09-14 22:25:58 INFO connected client_id = 11
+2013-09-14 22:25:58 INFO client_id=11|from_id=1
+2013-09-14 22:25:58 INFO websocket connected client_id = 11
+2013-09-14 22:25:58 INFO client_id=11|from_id=1
+2013-09-14 22:25:58 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:25:58 INFO client_id=11|from_id=1
+2013-09-14 22:25:58 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:26:02 INFO closeing client_id = 11
+2013-09-14 22:26:15 INFO closeing client_id = 10
+2013-09-14 22:26:15 INFO connected client_id = 10
+2013-09-14 22:26:15 INFO client_id=10|from_id=0
+2013-09-14 22:26:15 INFO websocket connected client_id = 10
+2013-09-14 22:26:15 INFO client_id=10|from_id=0
+2013-09-14 22:26:15 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:26:15 INFO client_id=10|from_id=0
+2013-09-14 22:26:15 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:26:24 INFO connected client_id = 11
+2013-09-14 22:26:24 INFO client_id=11|from_id=1
+2013-09-14 22:26:24 INFO websocket connected client_id = 11
+2013-09-14 22:26:24 INFO client_id=11|from_id=1
+2013-09-14 22:26:24 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:26:24 INFO client_id=11|from_id=1
+2013-09-14 22:26:24 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:26:26 INFO client_id=9|from_id=1
+2013-09-14 22:26:26 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n没情况。"}
+2013-09-14 22:26:55 INFO closeing client_id = 11
+2013-09-14 22:26:56 INFO connected client_id = 11
+2013-09-14 22:26:56 INFO client_id=11|from_id=1
+2013-09-14 22:26:56 INFO websocket connected client_id = 11
+2013-09-14 22:26:56 INFO client_id=11|from_id=1
+2013-09-14 22:26:56 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:26:56 INFO client_id=11|from_id=1
+2013-09-14 22:26:56 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:27:05 INFO closeing client_id = 11
+2013-09-14 22:27:05 INFO connected client_id = 11
+2013-09-14 22:27:05 INFO client_id=11|from_id=1
+2013-09-14 22:27:05 INFO websocket connected client_id = 11
+2013-09-14 22:27:08 INFO client_id=11|from_id=1
+2013-09-14 22:27:08 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 22:27:08 INFO client_id=11|from_id=1
+2013-09-14 22:27:08 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:29:46 INFO client_id=13|from_id=1
+2013-09-14 22:29:46 INFO onMessage: {"cmd":"message","from":13,"channal":0,"data":"\nWebSocket&nbsp;貌似还可以"}
+2013-09-14 22:31:51 INFO closeing client_id = 13
+2013-09-14 22:35:44 INFO connected client_id = 12
+2013-09-14 22:35:44 INFO client_id=12|from_id=0
+2013-09-14 22:35:44 INFO websocket connected client_id = 12
+2013-09-14 22:35:44 INFO client_id=12|from_id=0
+2013-09-14 22:35:44 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-14 22:35:44 INFO client_id=12|from_id=0
+2013-09-14 22:35:44 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:35:50 INFO client_id=12|from_id=0
+2013-09-14 22:35:50 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"累死了&nbsp; "}
+2013-09-14 22:36:06 INFO client_id=12|from_id=0
+2013-09-14 22:36:06 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"坑爹哦"}
+2013-09-14 22:38:06 INFO connected client_id = 13
+2013-09-14 22:38:06 INFO client_id=13|from_id=1
+2013-09-14 22:38:06 INFO websocket connected client_id = 13
+2013-09-14 22:38:06 INFO client_id=13|from_id=1
+2013-09-14 22:38:06 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-14 22:38:06 INFO client_id=13|from_id=1
+2013-09-14 22:38:06 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:38:14 INFO client_id=13|from_id=1
+2013-09-14 22:38:14 INFO onMessage: {"cmd":"message","from":13,"to":"9","channal":1,"data":"test"}
+2013-09-14 22:38:21 INFO client_id=13|from_id=1
+2013-09-14 22:38:21 INFO onMessage: {"cmd":"message","from":13,"to":"9","channal":1,"data":"\n还有这个功能"}
+2013-09-14 22:38:25 INFO client_id=13|from_id=1
+2013-09-14 22:38:25 INFO onMessage: {"cmd":"message","from":13,"to":"9","channal":1,"data":"\n悄悄说。"}
+2013-09-14 22:38:53 INFO client_id=13|from_id=1
+2013-09-14 22:38:53 INFO onMessage: {"cmd":"message","from":13,"channal":0,"data":"所有人&nbsp;能收到么？"}
+2013-09-14 22:38:58 INFO client_id=13|from_id=1
+2013-09-14 22:38:58 INFO onMessage: {"cmd":"message","from":13,"channal":0,"data":"O(∩_∩)O哈哈~。。"}
+2013-09-14 22:39:21 INFO client_id=12|from_id=0
+2013-09-14 22:39:21 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"\n收到"}
+2013-09-14 22:39:32 INFO client_id=12|from_id=0
+2013-09-14 22:39:32 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"怎么有两个我？"}
+2013-09-14 22:39:37 INFO client_id=9|from_id=1
+2013-09-14 22:39:37 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n#2"}
+2013-09-14 22:39:43 INFO client_id=12|from_id=0
+2013-09-14 22:39:43 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"\n用户呢？/"}
+2013-09-14 22:40:29 INFO client_id=9|from_id=1
+2013-09-14 22:40:29 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"你是不是开了两窗口"}
+2013-09-14 22:40:39 INFO client_id=10|from_id=0
+2013-09-14 22:40:39 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"对的"}
+2013-09-14 22:40:49 INFO client_id=9|from_id=1
+2013-09-14 22:40:49 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"哦。"}
+2013-09-14 22:41:36 INFO closeing client_id = 10
+2013-09-14 22:41:46 INFO client_id=12|from_id=0
+2013-09-14 22:41:46 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"\n不是"}
+2013-09-14 22:41:49 INFO closeing client_id = 12
+2013-09-14 22:41:50 INFO connected client_id = 10
+2013-09-14 22:41:50 INFO client_id=10|from_id=0
+2013-09-14 22:41:50 INFO websocket connected client_id = 10
+2013-09-14 22:41:50 INFO client_id=10|from_id=0
+2013-09-14 22:41:50 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-14 22:41:50 INFO client_id=10|from_id=0
+2013-09-14 22:41:50 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:42:03 INFO client_id=13|from_id=1
+2013-09-14 22:42:03 INFO onMessage: {"cmd":"message","from":13,"channal":0,"data":"系统】cxl下线了。。&nbsp;这个实现是怎么个思路呢"}
+2013-09-14 22:42:20 INFO client_id=13|from_id=1
+2013-09-14 22:42:20 INFO onMessage: {"cmd":"message","from":13,"channal":0,"data":"#8"}
+2013-09-14 22:42:38 INFO client_id=9|from_id=1
+2013-09-14 22:42:38 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n如果下线了，就给所有人发一条消息。"}
+2013-09-14 22:42:50 INFO client_id=9|from_id=1
+2013-09-14 22:42:50 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"说谁下线了。"}
+2013-09-14 22:44:01 INFO client_id=10|from_id=0
+2013-09-14 22:44:01 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"不错"}
+2013-09-14 22:44:29 INFO client_id=13|from_id=1
+2013-09-14 22:44:29 INFO onMessage: {"cmd":"message","from":13,"channal":0,"data":"在测试一下&nbsp;人多有压力的情况下 弄的稳定的 就很完善了。"}
+2013-09-14 22:44:51 INFO client_id=9|from_id=1
+2013-09-14 22:44:51 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"没有那么多真人测呀。"}
+2013-09-14 22:46:32 INFO connected client_id = 12
+2013-09-14 22:46:32 INFO client_id=12|from_id=0
+2013-09-14 22:46:32 INFO websocket connected client_id = 12
+2013-09-14 22:46:32 INFO client_id=12|from_id=0
+2013-09-14 22:46:32 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-14 22:46:32 INFO client_id=12|from_id=0
+2013-09-14 22:46:32 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:46:45 INFO client_id=12|from_id=0
+2013-09-14 22:46:45 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"#4"}
+2013-09-14 22:47:14 INFO client_id=10|from_id=0
+2013-09-14 22:47:14 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"牛逼"}
+2013-09-14 22:47:19 INFO client_id=10|from_id=0
+2013-09-14 22:47:19 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n求发图"}
+2013-09-14 22:47:25 INFO client_id=9|from_id=1
+2013-09-14 22:47:25 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"发不了。"}
+2013-09-14 22:48:40 INFO connected client_id = 14
+2013-09-14 22:48:40 INFO client_id=14|from_id=0
+2013-09-14 22:48:40 INFO websocket connected client_id = 14
+2013-09-14 22:48:40 INFO client_id=14|from_id=0
+2013-09-14 22:48:40 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-14 22:48:40 INFO client_id=14|from_id=0
+2013-09-14 22:48:40 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 22:48:50 INFO client_id=14|from_id=0
+2013-09-14 22:48:50 INFO onMessage: {"cmd":"message","from":14,"channal":0,"data":"fdafda"}
+2013-09-14 22:49:02 INFO client_id=14|from_id=0
+2013-09-14 22:49:02 INFO onMessage: {"cmd":"message","from":14,"to":"13","channal":1,"data":"\n"}
+2013-09-14 22:49:08 INFO client_id=14|from_id=0
+2013-09-14 22:49:08 INFO onMessage: {"cmd":"message","from":14,"to":"13","channal":1,"data":"#7"}
+2013-09-14 22:51:10 INFO closeing client_id = 10
+2013-09-14 22:53:26 INFO client_id=12|from_id=0
+2013-09-14 22:53:26 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"比上个版本改进了&nbsp;好几点了 赞一个\n"}
+2013-09-14 22:53:26 INFO client_id=12|from_id=0
+2013-09-14 22:53:26 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"\n"}
+2013-09-14 22:53:32 INFO client_id=12|from_id=0
+2013-09-14 22:53:32 INFO onMessage: {"cmd":"message","from":12,"channal":0,"data":"\n#14"}
+2013-09-14 22:53:59 INFO client_id=9|from_id=1
+2013-09-14 22:53:59 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n呵呵，加了个表情，把界面重弄了下。"}
+2013-09-14 23:00:17 INFO client_id=14|from_id=0
+2013-09-14 23:00:17 INFO closeing client_id = 14
+2013-09-14 23:02:43 INFO connected client_id = 10
+2013-09-14 23:02:43 INFO client_id=10|from_id=0
+2013-09-14 23:02:43 INFO websocket connected client_id = 10
+2013-09-14 23:02:43 INFO client_id=10|from_id=0
+2013-09-14 23:02:43 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-14 23:02:44 INFO client_id=10|from_id=0
+2013-09-14 23:02:44 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 23:02:59 INFO client_id=10|from_id=0
+2013-09-14 23:02:59 INFO onMessage: {"cmd":"message","from":10,"to":"13","channal":1,"data":"u"}
+2013-09-14 23:03:05 INFO client_id=10|from_id=0
+2013-09-14 23:03:05 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"#4"}
+2013-09-14 23:03:39 INFO client_id=10|from_id=0
+2013-09-14 23:03:39 INFO closeing client_id = 10
+2013-09-14 23:03:39 INFO connected client_id = 10
+2013-09-14 23:03:39 INFO client_id=10|from_id=0
+2013-09-14 23:03:39 INFO websocket connected client_id = 10
+2013-09-14 23:03:39 INFO client_id=10|from_id=0
+2013-09-14 23:03:39 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-14 23:03:39 INFO client_id=10|from_id=0
+2013-09-14 23:03:39 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 23:03:39 INFO client_id=10|from_id=0
+2013-09-14 23:03:39 INFO closeing client_id = 10
+2013-09-14 23:03:39 INFO connected client_id = 10
+2013-09-14 23:03:39 INFO client_id=10|from_id=0
+2013-09-14 23:03:39 INFO websocket connected client_id = 10
+2013-09-14 23:03:40 INFO client_id=10|from_id=0
+2013-09-14 23:03:40 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-14 23:03:40 INFO client_id=10|from_id=0
+2013-09-14 23:03:40 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 23:04:40 INFO closeing client_id = 12
+2013-09-14 23:25:56 INFO closeing client_id = 11
+2013-09-14 23:39:06 INFO connected client_id = 11
+2013-09-14 23:39:06 INFO client_id=11|from_id=1
+2013-09-14 23:39:06 INFO websocket connected client_id = 11
+2013-09-14 23:39:06 INFO client_id=11|from_id=1
+2013-09-14 23:39:06 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"https://res.mail.qq.com/en_US/htmledition/images/spacer.gif"}
+2013-09-14 23:39:06 INFO client_id=11|from_id=1
+2013-09-14 23:39:06 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 23:39:22 INFO closeing client_id = 11
+2013-09-14 23:39:26 INFO connected client_id = 11
+2013-09-14 23:39:26 INFO client_id=11|from_id=1
+2013-09-14 23:39:26 INFO websocket connected client_id = 11
+2013-09-14 23:39:26 INFO client_id=11|from_id=1
+2013-09-14 23:39:26 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"https://res.mail.qq.com/en_US/htmledition/images/spacer.gif"}
+2013-09-14 23:39:26 INFO client_id=11|from_id=1
+2013-09-14 23:39:26 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 23:39:30 INFO closeing client_id = 11
+2013-09-14 23:40:49 INFO connected client_id = 11
+2013-09-14 23:40:49 INFO client_id=11|from_id=1
+2013-09-14 23:40:49 INFO websocket connected client_id = 11
+2013-09-14 23:40:49 INFO client_id=11|from_id=1
+2013-09-14 23:40:49 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-14 23:40:49 INFO client_id=11|from_id=1
+2013-09-14 23:40:49 INFO onMessage: {"cmd":"getOnline"}
+2013-09-14 23:41:49 INFO closeing client_id = 10
+2013-09-15 00:03:40 INFO client_id=13|from_id=1
+2013-09-15 00:03:40 INFO closeing client_id = 13
+2013-09-15 00:44:46 INFO closeing client_id = 11
+2013-09-15 00:44:49 INFO connected client_id = 10
+2013-09-15 00:44:49 INFO client_id=10|from_id=0
+2013-09-15 00:44:49 INFO websocket connected client_id = 10
+2013-09-15 00:44:49 INFO client_id=10|from_id=0
+2013-09-15 00:44:49 INFO onMessage: {"cmd":"login","name":"cxl","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-15 00:44:49 INFO client_id=10|from_id=0
+2013-09-15 00:44:49 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 00:49:02 INFO closeing client_id = 10
+2013-09-15 01:00:42 INFO closeing client_id = 9
+2013-09-15 01:30:25 INFO connected client_id = 9
+2013-09-15 01:30:25 INFO client_id=9|from_id=1
+2013-09-15 01:30:25 INFO websocket connected client_id = 9
+2013-09-15 01:30:25 INFO client_id=9|from_id=1
+2013-09-15 01:30:25 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 01:30:25 INFO client_id=9|from_id=1
+2013-09-15 01:30:25 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 01:30:29 INFO client_id=9|from_id=1
+2013-09-15 01:30:29 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"eeee"}
+2013-09-15 02:23:10 INFO connected client_id = 10
+2013-09-15 02:23:10 INFO client_id=10|from_id=0
+2013-09-15 02:23:10 INFO websocket connected client_id = 10
+2013-09-15 02:23:10 INFO client_id=10|from_id=0
+2013-09-15 02:23:10 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-15 02:23:11 INFO client_id=10|from_id=0
+2013-09-15 02:23:11 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 02:23:17 INFO client_id=10|from_id=0
+2013-09-15 02:23:17 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"#6"}
+2013-09-15 02:23:25 INFO client_id=10|from_id=0
+2013-09-15 02:23:25 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"#4"}
+2013-09-15 02:23:35 INFO closeing client_id = 10
+2013-09-15 02:23:39 INFO connected client_id = 10
+2013-09-15 02:23:39 INFO client_id=10|from_id=0
+2013-09-15 02:23:39 INFO websocket connected client_id = 10
+2013-09-15 02:23:39 INFO client_id=10|from_id=0
+2013-09-15 02:23:39 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-15 02:23:39 INFO client_id=10|from_id=0
+2013-09-15 02:23:39 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 02:23:51 INFO closeing client_id = 10
+2013-09-15 02:38:52 INFO closeing client_id = 9
+2013-09-15 03:56:36 INFO connected client_id = 9
+2013-09-15 03:56:36 INFO client_id=9|from_id=1
+2013-09-15 03:56:36 INFO websocket connected client_id = 9
+2013-09-15 03:56:36 INFO client_id=9|from_id=1
+2013-09-15 03:56:36 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 03:56:36 INFO client_id=9|from_id=1
+2013-09-15 03:56:36 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 03:56:48 INFO client_id=9|from_id=1
+2013-09-15 03:56:48 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"我上线了。"}
+2013-09-15 06:27:07 INFO connected client_id = 10
+2013-09-15 06:27:07 INFO client_id=10|from_id=0
+2013-09-15 06:27:07 INFO websocket connected client_id = 10
+2013-09-15 06:27:07 INFO client_id=10|from_id=0
+2013-09-15 06:27:07 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-15 06:27:07 INFO client_id=10|from_id=0
+2013-09-15 06:27:07 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 06:27:32 INFO client_id=10|from_id=0
+2013-09-15 06:27:32 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"testestes"}
+2013-09-15 06:43:23 INFO closeing client_id = 9
+2013-09-15 06:52:55 INFO closeing client_id = 10
+2013-09-15 09:33:13 INFO connected client_id = 9
+2013-09-15 09:33:14 INFO client_id=9|from_id=1
+2013-09-15 09:33:14 INFO Bad protocol implementation: it is not RFC6455.
+2013-09-15 09:33:14 INFO websocket connected client_id = 9
+2013-09-15 09:33:14 INFO closeing client_id = 9
+2013-09-15 09:57:00 INFO connected client_id = 9
+2013-09-15 09:57:00 INFO client_id=9|from_id=1
+2013-09-15 09:57:00 INFO websocket connected client_id = 9
+2013-09-15 09:57:01 INFO client_id=9|from_id=1
+2013-09-15 09:57:01 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-15 09:57:02 INFO client_id=9|from_id=1
+2013-09-15 09:57:02 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 09:57:51 INFO client_id=9|from_id=1
+2013-09-15 09:57:51 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"聊天记录有么？"}
+2013-09-15 09:58:04 INFO closeing client_id = 9
+2013-09-15 09:58:07 INFO connected client_id = 9
+2013-09-15 09:58:07 INFO client_id=9|from_id=1
+2013-09-15 09:58:07 INFO websocket connected client_id = 9
+2013-09-15 09:58:08 INFO client_id=9|from_id=1
+2013-09-15 09:58:08 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-15 09:58:09 INFO client_id=9|from_id=1
+2013-09-15 09:58:09 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 10:01:05 INFO closeing client_id = 9
+2013-09-15 10:27:00 INFO connected client_id = 9
+2013-09-15 10:27:00 INFO client_id=9|from_id=1
+2013-09-15 10:27:00 INFO Bad protocol implementation: it is not RFC6455.
+2013-09-15 10:27:00 INFO websocket connected client_id = 9
+2013-09-15 10:27:00 INFO closeing client_id = 9
+2013-09-15 11:27:39 INFO connected client_id = 9
+2013-09-15 11:27:39 INFO client_id=9|from_id=1
+2013-09-15 11:27:39 INFO websocket connected client_id = 9
+2013-09-15 11:27:39 INFO client_id=9|from_id=1
+2013-09-15 11:27:39 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-15 11:27:39 INFO client_id=9|from_id=1
+2013-09-15 11:27:39 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 11:37:42 INFO connected client_id = 10
+2013-09-15 11:37:42 INFO client_id=10|from_id=0
+2013-09-15 11:37:42 INFO websocket connected client_id = 10
+2013-09-15 11:37:42 INFO client_id=10|from_id=0
+2013-09-15 11:37:42 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 11:37:42 INFO client_id=10|from_id=0
+2013-09-15 11:37:42 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 11:37:45 INFO client_id=10|from_id=0
+2013-09-15 11:37:45 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"4444"}
+2013-09-15 11:37:47 INFO client_id=10|from_id=0
+2013-09-15 11:37:47 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"435345"}
+2013-09-15 11:40:25 INFO client_id=9|from_id=1
+2013-09-15 11:40:25 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"00"}
+2013-09-15 11:40:44 INFO client_id=10|from_id=0
+2013-09-15 11:40:44 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"你&nbsp; 是哪个呀，"}
+2013-09-15 11:40:47 INFO client_id=10|from_id=0
+2013-09-15 11:40:47 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n天天在线呀"}
+2013-09-15 11:40:53 INFO client_id=10|from_id=0
+2013-09-15 11:40:53 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n哈哈，"}
+2013-09-15 11:40:57 INFO client_id=10|from_id=0
+2013-09-15 11:40:57 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n#4"}
+2013-09-15 11:41:03 INFO client_id=10|from_id=0
+2013-09-15 11:41:03 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"我才起床。。"}
+2013-09-15 11:56:39 INFO client_id=10|from_id=0
+2013-09-15 11:56:39 INFO closeing client_id = 10
+2013-09-15 11:56:39 INFO connected client_id = 10
+2013-09-15 11:56:39 INFO client_id=10|from_id=0
+2013-09-15 11:56:39 INFO websocket connected client_id = 10
+2013-09-15 11:56:39 INFO client_id=10|from_id=0
+2013-09-15 11:56:39 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 11:56:39 INFO client_id=10|from_id=0
+2013-09-15 11:56:39 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 11:56:43 INFO client_id=10|from_id=0
+2013-09-15 11:56:43 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\nfffff"}
+2013-09-15 12:06:57 INFO Swoole. running. on 0.0.0.0:9501
+2013-09-15 12:07:11 INFO connected client_id = 9
+2013-09-15 12:07:11 INFO client_id=9|from_id=1
+2013-09-15 12:07:11 INFO websocket connected client_id = 9
+2013-09-15 12:07:11 INFO client_id=9|from_id=1
+2013-09-15 12:07:11 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 12:07:11 INFO client_id=9|from_id=1
+2013-09-15 12:07:11 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 12:07:13 INFO client_id=9|from_id=1
+2013-09-15 12:07:13 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"wwerwer"}
+2013-09-15 12:07:15 INFO client_id=9|from_id=1
+2013-09-15 12:07:15 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"wrwer"}
+2013-09-15 12:07:34 INFO client_id=9|from_id=1
+2013-09-15 12:07:34 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"dfwerwerwerqwerwqer"}
+2013-09-15 12:08:25 INFO client_id=9|from_id=1
+2013-09-15 12:08:25 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"ertert"}
+2013-09-15 12:08:27 INFO client_id=9|from_id=1
+2013-09-15 12:08:27 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#7"}
+2013-09-15 12:08:30 INFO client_id=9|from_id=1
+2013-09-15 12:08:30 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#3"}
+2013-09-15 13:18:43 INFO connected client_id = 10
+2013-09-15 13:18:43 INFO client_id=10|from_id=0
+2013-09-15 13:18:43 INFO websocket connected client_id = 10
+2013-09-15 13:18:43 INFO client_id=10|from_id=0
+2013-09-15 13:18:43 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 13:18:43 INFO client_id=10|from_id=0
+2013-09-15 13:18:43 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 13:18:45 INFO client_id=10|from_id=0
+2013-09-15 13:18:45 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"4234234"}
+2013-09-15 13:18:47 INFO client_id=10|from_id=0
+2013-09-15 13:18:47 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"wrwerwer"}
+2013-09-15 13:19:23 INFO Swoole. running. on 0.0.0.0:9501
+2013-09-15 13:19:37 INFO connected client_id = 9
+2013-09-15 13:19:37 INFO client_id=9|from_id=1
+2013-09-15 13:19:37 INFO websocket connected client_id = 9
+2013-09-15 13:19:37 INFO client_id=9|from_id=1
+2013-09-15 13:19:37 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 13:19:37 INFO client_id=9|from_id=1
+2013-09-15 13:19:37 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 13:19:40 INFO client_id=9|from_id=1
+2013-09-15 13:19:40 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"werwerwr"}
+2013-09-15 13:19:41 INFO client_id=9|from_id=1
+2013-09-15 13:19:41 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"werwerwer"}
+2013-09-15 13:19:43 INFO client_id=9|from_id=1
+2013-09-15 13:19:43 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"werwer"}
+2013-09-15 13:19:51 INFO client_id=9|from_id=1
+2013-09-15 13:19:51 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"fff"}
+2013-09-15 13:19:57 INFO client_id=9|from_id=1
+2013-09-15 13:19:57 INFO onOffline: 9
+2013-09-15 13:19:57 INFO closeing client_id = 9
+2013-09-15 13:20:12 INFO connected client_id = 9
+2013-09-15 13:20:12 INFO client_id=9|from_id=1
+2013-09-15 13:20:12 INFO websocket connected client_id = 9
+2013-09-15 13:20:12 INFO client_id=9|from_id=1
+2013-09-15 13:20:12 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 13:20:12 INFO client_id=9|from_id=1
+2013-09-15 13:20:12 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 13:20:14 INFO client_id=9|from_id=1
+2013-09-15 13:20:14 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"wer"}
+2013-09-15 13:33:29 INFO connected client_id = 10
+2013-09-15 13:33:29 INFO client_id=10|from_id=0
+2013-09-15 13:33:29 INFO websocket connected client_id = 10
+2013-09-15 13:33:29 INFO client_id=10|from_id=0
+2013-09-15 13:33:29 INFO onMessage: {"cmd":"login","name":"nihao","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-15 13:33:29 INFO client_id=10|from_id=0
+2013-09-15 13:33:29 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 13:33:54 INFO client_id=10|from_id=0
+2013-09-15 13:33:54 INFO onMessage: {"cmd":"message","from":10,"to":"9","channal":1,"data":"#8"}
+2013-09-15 13:34:01 INFO client_id=10|from_id=0
+2013-09-15 13:34:01 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"d"}
+2013-09-15 13:34:06 INFO client_id=10|from_id=0
+2013-09-15 13:34:06 INFO onOffline: 10
+2013-09-15 13:34:06 INFO closeing client_id = 10
+2013-09-15 13:35:11 INFO connected client_id = 10
+2013-09-15 13:35:11 INFO client_id=10|from_id=0
+2013-09-15 13:35:11 INFO websocket connected client_id = 10
+2013-09-15 13:35:11 INFO client_id=10|from_id=0
+2013-09-15 13:35:11 INFO onMessage: {"cmd":"login","name":"v","avatar":"http://ww2.sinaimg.cn/mw600/8875757cjw1dvzmp1yemyj.jpg"}
+2013-09-15 13:35:11 INFO client_id=10|from_id=0
+2013-09-15 13:35:11 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 13:46:23 INFO client_id=9|from_id=1
+2013-09-15 13:46:23 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"4"}
+2013-09-15 13:46:34 INFO client_id=9|from_id=1
+2013-09-15 13:46:34 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"这X，这么风骚"}
+2013-09-15 14:27:42 INFO connected client_id = 11
+2013-09-15 14:27:42 INFO client_id=11|from_id=1
+2013-09-15 14:27:42 INFO websocket connected client_id = 11
+2013-09-15 14:27:42 INFO client_id=11|from_id=1
+2013-09-15 14:27:42 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 14:27:42 INFO client_id=11|from_id=1
+2013-09-15 14:27:42 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 14:27:44 INFO client_id=11|from_id=1
+2013-09-15 14:27:44 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"34234"}
+2013-09-15 14:43:10 INFO onOffline: 10
+2013-09-15 14:43:10 INFO closeing client_id = 10
+2013-09-15 14:44:20 INFO onOffline: 9
+2013-09-15 14:44:20 INFO closeing client_id = 9
+2013-09-15 14:56:43 INFO client_id=11|from_id=1
+2013-09-15 14:56:43 INFO onMessage: {"cmd":"message","from":11,"channal":0,"data":"44234"}
+2013-09-15 16:03:52 INFO connected client_id = 9
+2013-09-15 16:03:52 INFO client_id=9|from_id=1
+2013-09-15 16:03:52 INFO websocket connected client_id = 9
+2013-09-15 16:03:53 INFO client_id=9|from_id=1
+2013-09-15 16:03:53 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-15 16:03:53 INFO client_id=9|from_id=1
+2013-09-15 16:03:53 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 16:03:56 INFO client_id=9|from_id=1
+2013-09-15 16:03:56 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"34234234"}
+2013-09-15 16:03:58 INFO client_id=9|from_id=1
+2013-09-15 16:03:58 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"234234234"}
+2013-09-15 16:13:21 INFO client_id=9|from_id=1
+2013-09-15 16:13:21 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"4234234"}
+2013-09-15 16:13:32 INFO client_id=9|from_id=1
+2013-09-15 16:13:32 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"234234"}
+2013-09-15 16:13:36 INFO client_id=9|from_id=1
+2013-09-15 16:13:36 INFO onMessage: {"cmd":"message","from":9,"to":"11","channal":1,"data":"234234"}
+2013-09-15 16:19:53 INFO onOffline: 11
+2013-09-15 16:19:53 INFO closeing client_id = 11
+2013-09-15 17:14:18 INFO connected client_id = 10
+2013-09-15 17:14:18 INFO client_id=10|from_id=0
+2013-09-15 17:14:18 INFO websocket connected client_id = 10
+2013-09-15 17:14:18 INFO client_id=10|from_id=0
+2013-09-15 17:14:18 INFO onMessage: {"cmd":"login","name":"v","avatar":"http://ww2.sinaimg.cn/mw600/8875757cjw1dvzmp1yemyj.jpg"}
+2013-09-15 17:14:18 INFO client_id=10|from_id=0
+2013-09-15 17:14:18 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 17:14:23 INFO client_id=10|from_id=0
+2013-09-15 17:14:23 INFO onOffline: 10
+2013-09-15 17:14:23 INFO closeing client_id = 10
+2013-09-15 17:19:39 INFO connected client_id = 10
+2013-09-15 17:19:39 INFO client_id=10|from_id=0
+2013-09-15 17:19:39 INFO websocket connected client_id = 10
+2013-09-15 17:19:42 INFO client_id=10|from_id=0
+2013-09-15 17:19:42 INFO onMessage: {"cmd":"login","name":"sdf","avatar":"http://www.qiushibaike.com/static/images/thumb/missing.png"}
+2013-09-15 17:19:42 INFO client_id=10|from_id=0
+2013-09-15 17:19:42 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 17:20:01 INFO client_id=10|from_id=0
+2013-09-15 17:20:01 INFO onOffline: 10
+2013-09-15 17:20:01 INFO closeing client_id = 10
+2013-09-15 17:30:01 INFO onOffline: 9
+2013-09-15 17:30:01 INFO closeing client_id = 9
+2013-09-15 18:35:44 INFO connected client_id = 9
+2013-09-15 18:35:44 INFO client_id=9|from_id=1
+2013-09-15 18:35:44 INFO websocket connected client_id = 9
+2013-09-15 18:35:44 INFO client_id=9|from_id=1
+2013-09-15 18:35:44 INFO onMessage: {"cmd":"login","name":"admin","avatar":"http://tp3.sinaimg.cn/3284693442/180/40032981677/1"}
+2013-09-15 18:35:45 INFO client_id=9|from_id=1
+2013-09-15 18:35:45 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 18:35:51 INFO client_id=9|from_id=1
+2013-09-15 18:35:51 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"聊天了"}
+2013-09-15 18:36:34 INFO connected client_id = 10
+2013-09-15 18:36:34 INFO client_id=10|from_id=0
+2013-09-15 18:36:34 INFO websocket connected client_id = 10
+2013-09-15 18:36:37 INFO client_id=10|from_id=0
+2013-09-15 18:36:37 INFO onOffline: 10
+2013-09-15 18:36:37 INFO closeing client_id = 10
+2013-09-15 18:36:45 INFO connected client_id = 10
+2013-09-15 18:36:45 INFO client_id=10|from_id=0
+2013-09-15 18:36:45 INFO websocket connected client_id = 10
+2013-09-15 18:36:47 INFO client_id=10|from_id=0
+2013-09-15 18:36:47 INFO onOffline: 10
+2013-09-15 18:36:47 INFO closeing client_id = 10
+2013-09-15 18:36:48 INFO connected client_id = 10
+2013-09-15 18:36:48 INFO client_id=10|from_id=0
+2013-09-15 18:36:48 INFO websocket connected client_id = 10
+2013-09-15 18:36:49 INFO client_id=10|from_id=0
+2013-09-15 18:36:49 INFO onOffline: 10
+2013-09-15 18:36:49 INFO closeing client_id = 10
+2013-09-15 18:36:50 INFO connected client_id = 10
+2013-09-15 18:36:50 INFO client_id=10|from_id=0
+2013-09-15 18:36:50 INFO websocket connected client_id = 10
+2013-09-15 18:36:53 INFO client_id=10|from_id=0
+2013-09-15 18:36:53 INFO onOffline: 10
+2013-09-15 18:36:53 INFO closeing client_id = 10
+2013-09-15 18:36:54 INFO connected client_id = 10
+2013-09-15 18:36:54 INFO client_id=10|from_id=0
+2013-09-15 18:36:54 INFO websocket connected client_id = 10
+2013-09-15 18:36:54 INFO connected client_id = 11
+2013-09-15 18:36:55 INFO client_id=11|from_id=1
+2013-09-15 18:36:55 INFO websocket connected client_id = 11
+2013-09-15 18:36:55 INFO client_id=10|from_id=0
+2013-09-15 18:36:55 INFO onOffline: 10
+2013-09-15 18:36:55 INFO closeing client_id = 10
+2013-09-15 18:36:56 INFO client_id=9|from_id=1
+2013-09-15 18:36:56 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"？？？"}
+2013-09-15 18:36:57 INFO client_id=11|from_id=1
+2013-09-15 18:36:57 INFO onOffline: 11
+2013-09-15 18:36:57 INFO closeing client_id = 11
+2013-09-15 18:36:59 INFO connected client_id = 10
+2013-09-15 18:36:59 INFO client_id=10|from_id=0
+2013-09-15 18:36:59 INFO websocket connected client_id = 10
+2013-09-15 18:37:00 INFO client_id=9|from_id=1
+2013-09-15 18:37:00 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n你妹妹的"}
+2013-09-15 18:37:00 INFO client_id=10|from_id=0
+2013-09-15 18:37:00 INFO onOffline: 10
+2013-09-15 18:37:00 INFO closeing client_id = 10
+2013-09-15 18:37:04 INFO connected client_id = 10
+2013-09-15 18:37:04 INFO client_id=10|from_id=0
+2013-09-15 18:37:04 INFO websocket connected client_id = 10
+2013-09-15 18:37:04 INFO client_id=10|from_id=0
+2013-09-15 18:37:04 INFO onMessage: {"cmd":"login","name":"12","avatar":"12"}
+2013-09-15 18:37:04 INFO client_id=10|from_id=0
+2013-09-15 18:37:04 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 18:37:08 INFO onOffline: 10
+2013-09-15 18:37:08 INFO closeing client_id = 10
+2013-09-15 18:37:36 INFO connected client_id = 10
+2013-09-15 18:37:36 INFO client_id=10|from_id=0
+2013-09-15 18:37:36 INFO websocket connected client_id = 10
+2013-09-15 18:37:36 INFO client_id=10|from_id=0
+2013-09-15 18:37:36 INFO onMessage: {"cmd":"login","name":"羽音","avatar":"http://en.gravatar.com/avatar/36063d17b5de182b6b6b75d343520fd6?d"}
+2013-09-15 18:37:36 INFO client_id=10|from_id=0
+2013-09-15 18:37:36 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 18:37:42 INFO client_id=10|from_id=0
+2013-09-15 18:37:42 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"啪啪啪"}
+2013-09-15 18:38:08 INFO client_id=9|from_id=1
+2013-09-15 18:38:08 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n怕怕？/"}
+2013-09-15 18:38:11 INFO client_id=9|from_id=1
+2013-09-15 18:38:11 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n妹子？"}
+2013-09-15 18:38:53 INFO connected client_id = 11
+2013-09-15 18:38:53 INFO client_id=11|from_id=1
+2013-09-15 18:38:53 INFO websocket connected client_id = 11
+2013-09-15 18:38:55 INFO client_id=11|from_id=1
+2013-09-15 18:38:55 INFO onOffline: 11
+2013-09-15 18:38:55 INFO closeing client_id = 11
+2013-09-15 18:38:59 INFO client_id=10|from_id=0
+2013-09-15 18:38:59 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n居然还能私聊……"}
+2013-09-15 18:39:03 INFO client_id=10|from_id=0
+2013-09-15 18:39:03 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n好高级"}
+2013-09-15 18:39:21 INFO connected client_id = 11
+2013-09-15 18:39:21 INFO client_id=11|from_id=1
+2013-09-15 18:39:21 INFO websocket connected client_id = 11
+2013-09-15 18:39:21 INFO client_id=11|from_id=1
+2013-09-15 18:39:21 INFO onMessage: {"cmd":"login","name":"爱疯","avatar":"a.jpg"}
+2013-09-15 18:39:21 INFO client_id=11|from_id=1
+2013-09-15 18:39:21 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 18:39:26 INFO client_id=11|from_id=1
+2013-09-15 18:39:26 INFO onOffline: 11
+2013-09-15 18:39:26 INFO closeing client_id = 11
+2013-09-15 18:39:26 INFO client_id=9|from_id=1
+2013-09-15 18:39:26 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\n你知道&nbsp;swoole？"}
+2013-09-15 18:39:26 INFO client_id=10|from_id=0
+2013-09-15 18:39:26 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"=&nbsp;="}
+2013-09-15 18:39:31 INFO client_id=10|from_id=0
+2013-09-15 18:39:31 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n不知道……"}
+2013-09-15 18:39:34 INFO client_id=9|from_id=1
+2013-09-15 18:39:34 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"就是不能发图\n"}
+2013-09-15 18:39:34 INFO connected client_id = 11
+2013-09-15 18:39:34 INFO client_id=11|from_id=1
+2013-09-15 18:39:34 INFO websocket connected client_id = 11
+2013-09-15 18:39:34 INFO client_id=11|from_id=1
+2013-09-15 18:39:34 INFO onMessage: {"cmd":"login","name":"爱疯","avatar":"a.jpg"}
+2013-09-15 18:39:34 INFO client_id=11|from_id=1
+2013-09-15 18:39:34 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 18:39:43 INFO onOffline: 11
+2013-09-15 18:39:43 INFO closeing client_id = 11
+2013-09-15 18:39:43 INFO client_id=10|from_id=0
+2013-09-15 18:39:43 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n哦哦！"}
+2013-09-15 18:39:50 INFO client_id=10|from_id=0
+2013-09-15 18:39:50 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"php的框架啊"}
+2013-09-15 18:40:34 INFO client_id=10|from_id=0
+2013-09-15 18:40:34 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"好像有人遇到问题了么……"}
+2013-09-15 18:40:35 INFO client_id=9|from_id=1
+2013-09-15 18:40:35 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"把系统的高级内容内嵌了&nbsp;"}
+2013-09-15 18:40:45 INFO client_id=10|from_id=0
+2013-09-15 18:40:45 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"高级内容是什么……"}
+2013-09-15 18:40:51 INFO connected client_id = 11
+2013-09-15 18:40:51 INFO client_id=11|from_id=1
+2013-09-15 18:40:51 INFO websocket connected client_id = 11
+2013-09-15 18:40:53 INFO client_id=11|from_id=1
+2013-09-15 18:40:53 INFO onOffline: 11
+2013-09-15 18:40:53 INFO closeing client_id = 11
+2013-09-15 18:41:39 INFO client_id=9|from_id=1
+2013-09-15 18:41:39 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"\nsocket"}
+2013-09-15 18:41:43 INFO client_id=10|from_id=0
+2013-09-15 18:41:43 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\n=&nbsp;="}
+2013-09-15 18:41:47 INFO client_id=10|from_id=0
+2013-09-15 18:41:47 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\nwebsocket么……"}
+2013-09-15 18:41:54 INFO client_id=9|from_id=1
+2013-09-15 18:41:54 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"不是&nbsp;"}
+2013-09-15 18:42:29 INFO client_id=9|from_id=1
+2013-09-15 18:42:29 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"性能比nodejs好&nbsp;"}
+2013-09-15 18:44:37 INFO onOffline: 9
+2013-09-15 18:44:37 INFO closeing client_id = 9
+2013-09-15 18:49:36 INFO connected client_id = 9
+2013-09-15 18:49:36 INFO client_id=9|from_id=1
+2013-09-15 18:49:36 INFO websocket connected client_id = 9
+2013-09-15 18:49:40 INFO client_id=9|from_id=1
+2013-09-15 18:49:40 INFO onOffline: 9
+2013-09-15 18:49:40 INFO closeing client_id = 9
+2013-09-15 19:08:46 INFO connected client_id = 9
+2013-09-15 19:08:46 INFO client_id=9|from_id=1
+2013-09-15 19:08:46 INFO websocket connected client_id = 9
+2013-09-15 19:08:52 INFO client_id=9|from_id=1
+2013-09-15 19:08:52 INFO onOffline: 9
+2013-09-15 19:08:52 INFO closeing client_id = 9
+2013-09-15 19:12:47 INFO connected client_id = 9
+2013-09-15 19:12:47 INFO client_id=9|from_id=1
+2013-09-15 19:12:47 INFO websocket connected client_id = 9
+2013-09-15 19:12:47 INFO client_id=9|from_id=1
+2013-09-15 19:12:47 INFO onMessage: {"cmd":"login","name":"Nick","avatar":"http://tp2.sinaimg.cn/2122686197/180/5617504394/0"}
+2013-09-15 19:12:47 INFO client_id=9|from_id=1
+2013-09-15 19:12:47 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 19:13:24 INFO client_id=9|from_id=1
+2013-09-15 19:13:24 INFO onMessage: {"cmd":"message","from":9,"to":"10","channal":1,"data":"#1"}
+2013-09-15 19:14:45 INFO client_id=9|from_id=1
+2013-09-15 19:14:45 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#1"}
+2013-09-15 19:14:56 INFO onOffline: 9
+2013-09-15 19:14:56 INFO closeing client_id = 9
+2013-09-15 19:14:58 INFO connected client_id = 9
+2013-09-15 19:14:58 INFO client_id=9|from_id=1
+2013-09-15 19:14:58 INFO websocket connected client_id = 9
+2013-09-15 19:15:01 INFO client_id=9|from_id=1
+2013-09-15 19:15:01 INFO onMessage: {"cmd":"login","name":"Nick","avatar":"http://tp2.sinaimg.cn/2122686197/180/5617504394/0"}
+2013-09-15 19:15:07 INFO client_id=9|from_id=1
+2013-09-15 19:15:07 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 19:15:33 INFO onOffline: 9
+2013-09-15 19:15:33 INFO closeing client_id = 9
+2013-09-15 19:15:58 INFO onOffline: 10
+2013-09-15 19:15:58 INFO closeing client_id = 10
+2013-09-15 19:23:31 INFO connected client_id = 9
+2013-09-15 19:23:31 INFO client_id=9|from_id=1
+2013-09-15 19:23:31 INFO websocket connected client_id = 9
+2013-09-15 19:23:47 INFO client_id=9|from_id=1
+2013-09-15 19:23:47 INFO onOffline: 9
+2013-09-15 19:23:47 INFO closeing client_id = 9
+2013-09-15 19:45:48 INFO connected client_id = 9
+2013-09-15 19:45:48 INFO client_id=9|from_id=1
+2013-09-15 19:45:48 INFO websocket connected client_id = 9
+2013-09-15 19:45:50 INFO client_id=9|from_id=1
+2013-09-15 19:45:50 INFO onOffline: 9
+2013-09-15 19:45:50 INFO closeing client_id = 9
+2013-09-15 19:46:06 INFO connected client_id = 9
+2013-09-15 19:46:06 INFO client_id=9|from_id=1
+2013-09-15 19:46:06 INFO websocket connected client_id = 9
+2013-09-15 19:46:07 INFO client_id=9|from_id=1
+2013-09-15 19:46:07 INFO onOffline: 9
+2013-09-15 19:46:07 INFO closeing client_id = 9
+2013-09-15 19:46:09 INFO connected client_id = 9
+2013-09-15 19:46:09 INFO client_id=9|from_id=1
+2013-09-15 19:46:09 INFO websocket connected client_id = 9
+2013-09-15 19:46:11 INFO client_id=9|from_id=1
+2013-09-15 19:46:11 INFO onOffline: 9
+2013-09-15 19:46:11 INFO closeing client_id = 9
+2013-09-15 19:47:15 INFO connected client_id = 9
+2013-09-15 19:47:15 INFO client_id=9|from_id=1
+2013-09-15 19:47:15 INFO websocket connected client_id = 9
+2013-09-15 19:47:15 INFO client_id=9|from_id=1
+2013-09-15 19:47:15 INFO onMessage: {"cmd":"login","name":"123","avatar":"123"}
+2013-09-15 19:47:15 INFO client_id=9|from_id=1
+2013-09-15 19:47:15 INFO onMessage: {"cmd":"getOnline"}
+2013-09-15 19:47:23 INFO client_id=9|from_id=1
+2013-09-15 19:47:23 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#6"}
+2013-09-15 19:47:28 INFO client_id=9|from_id=1
+2013-09-15 19:47:28 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#8"}
+2013-09-15 19:47:42 INFO connected client_id = 10
+2013-09-15 19:47:42 INFO client_id=10|from_id=0
+2013-09-15 19:47:42 INFO websocket connected client_id = 10
+2013-09-15 19:47:44 INFO client_id=9|from_id=1
+2013-09-15 19:47:44 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#19"}
+2013-09-15 19:47:47 INFO client_id=10|from_id=0
+2013-09-15 19:47:47 INFO onOffline: 10
+2013-09-15 19:47:47 INFO closeing client_id = 10
+2013-09-15 19:47:47 INFO onOffline: 9
+2013-09-15 19:47:47 INFO closeing client_id = 9
+2013-09-15 20:20:23 INFO connected client_id = 9
+2013-09-15 20:20:23 INFO client_id=9|from_id=1
+2013-09-15 20:20:23 INFO websocket connected client_id = 9
+2013-09-15 20:20:23 INFO client_id=9|from_id=1
+2013-09-15 20:20:23 INFO onOffline: 9
+2013-09-15 20:20:23 INFO closeing client_id = 9
+2013-09-15 20:33:26 INFO connected client_id = 9
+2013-09-15 20:33:26 INFO client_id=9|from_id=1
+2013-09-15 20:33:26 INFO websocket connected client_id = 9
+2013-09-15 20:33:28 INFO client_id=9|from_id=1
+2013-09-15 20:33:28 INFO onOffline: 9
+2013-09-15 20:33:28 INFO closeing client_id = 9
+2013-09-16 09:05:28 INFO Swoole. running. on 0.0.0.0:9501
+2013-09-16 09:08:20 INFO connected client_id = 9
+2013-09-16 09:08:20 INFO client_id=9|from_id=1
+2013-09-16 09:08:20 INFO websocket connected client_id = 9
+2013-09-16 09:08:20 INFO client_id=9|from_id=1
+2013-09-16 09:08:20 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 09:08:20 INFO client_id=9|from_id=1
+2013-09-16 09:08:20 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 09:08:23 INFO client_id=9|from_id=1
+2013-09-16 09:08:23 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"werwer"}
+2013-09-16 09:08:25 INFO client_id=9|from_id=1
+2013-09-16 09:08:25 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"qwerwer"}
+2013-09-16 09:08:27 INFO client_id=9|from_id=1
+2013-09-16 09:08:27 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"weqrwer"}
+2013-09-16 09:08:29 INFO client_id=9|from_id=1
+2013-09-16 09:08:29 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#5"}
+2013-09-16 09:09:44 INFO client_id=9|from_id=1
+2013-09-16 09:09:44 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"gggsdf"}
+2013-09-16 09:09:49 INFO client_id=9|from_id=1
+2013-09-16 09:09:49 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"sgsdfsfsdf"}
+2013-09-16 09:11:53 INFO client_id=9|from_id=1
+2013-09-16 09:11:53 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"gdfgfg"}
+2013-09-16 09:11:55 INFO client_id=9|from_id=1
+2013-09-16 09:11:55 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"234234243"}
+2013-09-16 09:11:59 INFO client_id=9|from_id=1
+2013-09-16 09:11:59 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#3"}
+2013-09-16 09:12:02 INFO client_id=9|from_id=1
+2013-09-16 09:12:02 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#11"}
+2013-09-16 09:27:50 INFO connected client_id = 9
+2013-09-16 09:27:50 INFO client_id=9|from_id=1
+2013-09-16 09:27:50 INFO websocket connected client_id = 9
+2013-09-16 09:27:50 INFO client_id=9|from_id=1
+2013-09-16 09:27:50 INFO onMessage: {"cmd":"login","name":"刘昌兵","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 09:27:50 INFO client_id=9|from_id=1
+2013-09-16 09:27:50 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 09:27:52 INFO client_id=9|from_id=1
+2013-09-16 09:27:52 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"423423"}
+2013-09-16 09:27:54 INFO client_id=9|from_id=1
+2013-09-16 09:27:54 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"erwrw"}
+2013-09-16 09:27:58 INFO client_id=9|from_id=1
+2013-09-16 09:27:58 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#4"}
+2013-09-16 09:39:31 INFO client_id=9|from_id=1
+2013-09-16 09:39:31 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"435345"}
+2013-09-16 09:40:04 INFO connected client_id = 9
+2013-09-16 09:40:04 INFO client_id=9|from_id=1
+2013-09-16 09:40:04 INFO websocket connected client_id = 9
+2013-09-16 09:40:04 INFO client_id=9|from_id=1
+2013-09-16 09:40:04 INFO onMessage: {"cmd":"login","name":"刘三","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 09:40:04 INFO client_id=9|from_id=1
+2013-09-16 09:40:04 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 09:40:06 INFO client_id=9|from_id=1
+2013-09-16 09:40:06 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"rwerwer"}
+2013-09-16 09:40:08 INFO client_id=9|from_id=1
+2013-09-16 09:40:08 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"werwrwer"}
+2013-09-16 09:40:52 INFO client_id=9|from_id=1
+2013-09-16 09:40:52 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"werwer"}
+2013-09-16 09:40:53 INFO client_id=9|from_id=1
+2013-09-16 09:40:53 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"wrqwer"}
+2013-09-16 09:40:55 INFO client_id=9|from_id=1
+2013-09-16 09:40:55 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"werwer"}
+2013-09-16 09:41:05 INFO client_id=9|from_id=1
+2013-09-16 09:41:05 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"#4"}
+2013-09-16 09:59:55 INFO client_id=9|from_id=1
+2013-09-16 09:59:55 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"fsdfsdf"}
+2013-09-16 09:59:57 INFO client_id=9|from_id=1
+2013-09-16 09:59:57 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"gdfgfdgdf"}
+2013-09-16 09:59:58 INFO client_id=9|from_id=1
+2013-09-16 09:59:58 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"sadfsdaf"}
+2013-09-16 10:00:48 INFO connected client_id = 9
+2013-09-16 10:00:48 INFO client_id=9|from_id=1
+2013-09-16 10:00:48 INFO websocket connected client_id = 9
+2013-09-16 10:00:48 INFO client_id=9|from_id=1
+2013-09-16 10:00:48 INFO onMessage: {"cmd":"login","name":"hadfasf","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 10:00:48 INFO client_id=9|from_id=1
+2013-09-16 10:00:48 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 10:00:51 INFO client_id=9|from_id=1
+2013-09-16 10:00:51 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"sddsf"}
+2013-09-16 10:02:36 INFO connected client_id = 9
+2013-09-16 10:02:36 INFO client_id=9|from_id=1
+2013-09-16 10:02:36 INFO websocket connected client_id = 9
+2013-09-16 10:02:36 INFO client_id=9|from_id=1
+2013-09-16 10:02:36 INFO onMessage: {"cmd":"login","name":"sfsdf","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 10:02:36 INFO client_id=9|from_id=1
+2013-09-16 10:02:36 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 10:02:38 INFO client_id=9|from_id=1
+2013-09-16 10:02:38 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"sdfsdf"}
+2013-09-16 10:07:03 INFO connected client_id = 9
+2013-09-16 10:07:03 INFO client_id=9|from_id=1
+2013-09-16 10:07:03 INFO websocket connected client_id = 9
+2013-09-16 10:07:03 INFO client_id=9|from_id=1
+2013-09-16 10:07:03 INFO onMessage: {"cmd":"login","name":"ggg","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 10:07:03 INFO client_id=9|from_id=1
+2013-09-16 10:07:03 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 10:07:05 INFO client_id=9|from_id=1
+2013-09-16 10:07:05 INFO onOffline: 9
+2013-09-16 10:07:05 INFO closeing client_id = 9
+2013-09-16 10:07:11 INFO connected client_id = 9
+2013-09-16 10:07:11 INFO client_id=9|from_id=1
+2013-09-16 10:07:11 INFO websocket connected client_id = 9
+2013-09-16 10:07:11 INFO client_id=9|from_id=1
+2013-09-16 10:07:11 INFO onMessage: {"cmd":"login","name":"hadfasf","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 10:07:11 INFO client_id=9|from_id=1
+2013-09-16 10:07:11 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 10:07:14 INFO client_id=9|from_id=1
+2013-09-16 10:07:14 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"sdfsdf"}
+2013-09-16 10:07:26 INFO client_id=9|from_id=1
+2013-09-16 10:07:26 INFO onOffline: 9
+2013-09-16 10:07:26 INFO closeing client_id = 9
+2013-09-16 10:07:33 INFO connected client_id = 9
+2013-09-16 10:07:33 INFO client_id=9|from_id=1
+2013-09-16 10:07:33 INFO websocket connected client_id = 9
+2013-09-16 10:07:33 INFO client_id=9|from_id=1
+2013-09-16 10:07:33 INFO onMessage: {"cmd":"login","name":"Rango","avatar":"http://tp1.sinaimg.cn/1003716184/50/1283203422/1"}
+2013-09-16 10:07:33 INFO client_id=9|from_id=1
+2013-09-16 10:07:33 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 10:07:37 INFO client_id=9|from_id=1
+2013-09-16 10:07:37 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"??"}
+2013-09-16 10:07:59 INFO connected client_id = 10
+2013-09-16 10:07:59 INFO client_id=10|from_id=0
+2013-09-16 10:07:59 INFO websocket connected client_id = 10
+2013-09-16 10:07:59 INFO client_id=10|from_id=0
+2013-09-16 10:07:59 INFO onMessage: {"cmd":"login","name":"wwww","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 10:07:59 INFO client_id=10|from_id=0
+2013-09-16 10:07:59 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 10:08:02 INFO client_id=10|from_id=0
+2013-09-16 10:08:02 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"rwer"}
+2013-09-16 10:08:29 INFO client_id=10|from_id=0
+2013-09-16 10:08:29 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"开时间长了，有时服务器端给断了，"}
+2013-09-16 10:08:41 INFO client_id=10|from_id=0
+2013-09-16 10:08:41 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"\nfd没有删掉。。"}
+2013-09-16 10:09:21 INFO client_id=10|from_id=0
+2013-09-16 10:09:21 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"柘城"}
+2013-09-16 10:09:23 INFO client_id=10|from_id=0
+2013-09-16 10:09:23 INFO onOffline: 10
+2013-09-16 10:09:23 INFO closeing client_id = 10
+2013-09-16 10:09:25 INFO connected client_id = 10
+2013-09-16 10:09:25 INFO client_id=10|from_id=0
+2013-09-16 10:09:25 INFO websocket connected client_id = 10
+2013-09-16 10:09:28 INFO client_id=10|from_id=0
+2013-09-16 10:09:28 INFO onMessage: {"cmd":"login","name":"wwww","avatar":"http://211.144.68.31/app/webIM/resource/img/avatar1.jpg"}
+2013-09-16 10:09:28 INFO client_id=10|from_id=0
+2013-09-16 10:09:28 INFO onMessage: {"cmd":"getOnline"}
+2013-09-16 10:09:28 INFO client_id=10|from_id=0
+2013-09-16 10:09:28 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"热吻"}
+2013-09-16 10:09:33 INFO client_id=10|from_id=0
+2013-09-16 10:09:33 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"的佣兵"}
+2013-09-16 10:10:02 INFO client_id=9|from_id=1
+2013-09-16 10:10:02 INFO onMessage: {"cmd":"message","from":9,"channal":0,"data":"connections里面还有？"}
+2013-09-16 10:10:35 INFO client_id=10|from_id=0
+2013-09-16 10:10:35 INFO onMessage: {"cmd":"message","from":10,"channal":0,"data":"大多断开，是有日志的，偶尔也会没有日志，却断开了。"}
+2013-09-16 10:16:09 INFO onOffline: 9
+2013-09-16 10:16:09 INFO closeing client_id = 9
